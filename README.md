@@ -31,6 +31,7 @@ os empréstimos e devoluções.
 - Anne Ellen
 - Alicia
 - Elis Lara
+- Larissa
 
 ## Versão
 
