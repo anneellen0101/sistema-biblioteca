@@ -28,8 +28,9 @@ os empréstimos e devoluções.
 ## Equipe
 
 - Seu Nome
-- Nome do colega 1
-- Nome do colega 2
+- Anne Ellen
+- Alicia
+- Elis Lara
 
 ## Versão
 
