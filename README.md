@@ -27,7 +27,7 @@ os empréstimos e devoluções.
 
 ## Equipe
 
-- Seu Nome
+
 - Anne Ellen
 - Alicia
 - Elis Lara
